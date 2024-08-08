@@ -13,12 +13,18 @@ If you have brew on your computer, you can directly go to the next step.
 
 Follow the on-screen instructions to complete the installation
 
+To check the version of Homebrew:
+```bash
+brew --version
+```
+you should see something like `Homebrew 4.3.9`
+
 ## Install Python
 
 ```bash
 brew install python
 ```
-to check the version installed
+to check the version installed:
 ```bash
 python3 --version
 ```
