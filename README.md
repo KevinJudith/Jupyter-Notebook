@@ -20,7 +20,7 @@ brew install python
 ```
 to check the version installed
 ```bash
-python3 --verson
+python3 --version
 ```
 You should see something like `Python 3.12.4` 
 
@@ -29,5 +29,14 @@ You should see something like `Python 3.12.4`
 ```bash
 pip3 install jupyter
 ```
+or
+```
+brew install jupyter
+```
+to run the notebook: 
+```
+jupyter notebook
+```
+
 
 
